@@ -1,3 +1,5 @@
+-- Data Exploration
+
 select *
 from [Portfolio Project 1].dbo.CovidDeaths
 order by  3, 4
